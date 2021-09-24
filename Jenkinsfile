@@ -10,6 +10,5 @@ pipeline {
             steps{
                 sh 'pytest'
             }
-        }
     }
 }
